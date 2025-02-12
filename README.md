@@ -1,10 +1,8 @@
-## Hi there 👋 I'm Caê!
+# Hi there 👋 I'm Caê! 
+I'm a Computer Science major from Brazil on my third year! I'm currently working on <b>game design</b> projects as the CGD, and FrontEnd projects as a web designer and developer.
+<br>In my free time i enjoy watching a nice movie or playing rhythm games 😁 Let's connect!
 
-- 🎮 I’m currently working on game design projects
-- 🌱 I’m enroled in a Computer Science major, currently on my second year!
-- 😄 Pronouns: he/him | ele/dele
-
-<h3 align="left">Stats</h3>
+## 📚 Stats 
 
 ###
 
@@ -15,7 +13,7 @@
 
 ###
 
-<h3 align="left">Techs</h3>
+## 🔧 Techs&Tools 
 
 ###
 
@@ -34,12 +32,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="git logo"/>
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="git logo"/>
+  <img width="12" />
+          
   
 </div>
 
 ###
 
-<h3 align="left">Contacts</h3>
+## 🌐 Socials
 
 ###
 
