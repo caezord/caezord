@@ -39,6 +39,7 @@ I'm a Computer Science major from Brazil on my third year! I'm currently working
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="figma logo"/>
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="40" alt="sass logo"/>
+  <img src="https://imgs.search.brave.com/2BsP_LfRO2pQ1iZG-bNdn2ddc8Edf01v0_BuPP03vWo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pY29u/cy1mb3ItZnJlZS5j/b20vaWZmL3BuZy8y/NTYvdnNjb2RlK2lj/b25zK3R5cGUrcm9i/b3RmcmFtZXdvcmst/MTMyNDQ1MTQ3NDgx/ODM5OTE0My5wbmc" height="45" alt="sass logo"/>
   
           
   
