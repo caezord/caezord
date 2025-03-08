@@ -53,7 +53,7 @@ I'm a Computer Science major from Brazil on my third year! I'm currently working
 
 
 <div> 
-  <a href="https://www.linkedin.com/in/maria-clara-marques-0329b0252/ target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" target="_blank" height="40"></a> 
+  <a href="https://www.linkedin.com/in/maria-clara-marques-0329b0252/ target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40"></a> 
   <a href="https://x.com/11001010111O" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" height="40"></a>
   
 </div>
