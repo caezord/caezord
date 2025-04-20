@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Caê! 
-I'm a Computer Science major from Brazil on my third year! I'm currently working on <b>game design</b> projects as the CGD, and FrontEnd projects as a web designer and developer.
+I'm a Computer Science major from Brazil on my third year! I'm currently working on <b>game design</b> projects as the CGD, and web development projects as a web designer and frontend dev.
 <br>In my free time i enjoy watching a nice movie or playing rhythm games 😁 Let's connect!
 
 ## 📚 Stats 
