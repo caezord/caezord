@@ -45,6 +45,8 @@ I'm a Computer Science major from Brazil on my third year! I'm currently working
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="react logo"/>
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"/>
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"/>
 
           
   
