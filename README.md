@@ -64,6 +64,8 @@ I work as a front end developer and web designer, while studying back end with j
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"/>
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"/>
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo"/>
 
           
   
