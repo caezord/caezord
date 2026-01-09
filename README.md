@@ -12,7 +12,8 @@
 ## 🌐 let's get in touch!
 <div align="center">
   <a href="https://www.linkedin.com/in/maria-clara-marques-0329b0252/ target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="55"\n></a>
-  <a href="https://x.com/caezord" target="_blank"><img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=FFFFFF" height="60"></a>
+  <a href="https://x.com/caezord" target="_blank"><img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=FFFFFF" height="60"></a><br>
+  <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" height="25"> cmarques.dsr@gmail.com <br><br>
   
   
 </div>
