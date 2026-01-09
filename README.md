@@ -5,7 +5,7 @@
 <h1 align="center">welcome to cazoca's github 🧸</h1>
 
 <div align="center">
-  i'm a <b>QA analyst</b>, from <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" width="2%">, i also do freelances as a <b>frontend developer</b> and <b>web designer</b>!
+  i'm a <b>QA analyst</b> from <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" width="2%">, i also do freelances as a <b>frontend developer</b> and <b>web designer</b>!
   
 </div>
 
